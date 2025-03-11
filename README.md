@@ -1,6 +1,6 @@
 # MySQL-with-Information-Technology
 
-![Certificate of Completion](certificate_of_completion.png)
+![Certificate of Completion](https://github.com/TammyTheAnalyst/MySQL-with-Information-Technology/blob/main/Certificate%20of%20Completion%20.png)
 
 ## Project Overview: MySQL in Information Systems
 
