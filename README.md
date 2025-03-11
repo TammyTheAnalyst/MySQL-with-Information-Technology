@@ -1,5 +1,6 @@
 # MySQL-with-Information-Technology
 
+![Certificate of Completion](certificate_of_completion.png)
 
 ## Project Overview: MySQL in Information Systems
 
