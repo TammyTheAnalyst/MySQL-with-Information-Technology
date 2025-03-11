@@ -1,5 +1,7 @@
 # MySQL-with-Information-Technology
 
+[View my certificate](https://github.com/TammyTheAnalyst/MySQL-with-Information-Technology/commit/c7242a9aaf5d3ca0e743927b6848a33a69343dfb)
+
 ## Project Overview: MySQL in Information Systems
 
 In this project, I explored the role of MySQL in information systems by working through hands-on exercises using MySQL Workbench. I learned how to create, manage, and populate a relational database while gaining practical experience with MySQL's core features.
