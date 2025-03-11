@@ -1,6 +1,5 @@
 # MySQL-with-Information-Technology
 
-[View my certificate](https://github.com/TammyTheAnalyst/MySQL-with-Information-Technology/blob/main/MySQL%20with%20Information%20Technology%20cert.pdf)
 
 ## Project Overview: MySQL in Information Systems
 
