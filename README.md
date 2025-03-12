@@ -14,3 +14,25 @@ In this project, I explored the role of MySQL in information systems by working 
 - **Populate a database table** by adding, modifying, and retrieving data using SQL queries.
 
 This project helped me build a solid foundation in database management using MySQL, which is a critical tool for managing data in modern applications.
+
+# MySQL Project - Screenshots
+
+Below are the screenshots that document the various steps I took while completing my MySQL project. These images illustrate key steps such as creating the schema, defining the table structure, inserting data, and verifying queries.
+
+---
+
+### Screenshot 1: Creating the Schema
+
+[creating the schema](https://github.com/TammyTheAnalyst/MySQL-with-Information-Technology/blob/main/Screenshot%20(4344).png)
+
+### Screenshot 2: Creating the Table
+![Creating the Table](https://github.com/TammyTheAnalyst/MySQL-with-Information-Technology/blob/main/Screenshot%20(4350).png)
+
+### Screenshot 3: Applying the Script
+![Applying the Script](https://github.com/TammyTheAnalyst/MySQL-with-Information-Technology/blob/main/Screenshot%20(4351).png)
+
+### Screenshot 4: Inserting Data Manually
+![Inserting Data](https://github.com/TammyTheAnalyst/MySQL-with-Information-Technology/blob/main/Screenshot%20(4352).png)
+
+### Screenshot 5: Inserting Data with SQL Query
+![Screenshot 5: Inserting Data with SQL Query](https://github.com/TammyTheAnalyst/MySQL-with-Information-Technology/blob/main/Screenshot%20(4354).png)
