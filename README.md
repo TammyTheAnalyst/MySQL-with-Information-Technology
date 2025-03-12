@@ -23,7 +23,7 @@ Below are the screenshots that document the various steps I took while completin
 
 ### Screenshot 1: Creating the Schema
 
-[creating the schema](https://github.com/TammyTheAnalyst/MySQL-with-Information-Technology/blob/main/Screenshot%20(4344).png)
+![Creating the Schema](https://github.com/TammyTheAnalyst/MySQL-with-Information-Technology/blob/main/Screenshot%20(4344).png)
 
 ### Screenshot 2: Creating the Table
 ![Creating the Table](https://github.com/TammyTheAnalyst/MySQL-with-Information-Technology/blob/main/Screenshot%20(4350).png)
